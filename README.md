@@ -1,6 +1,6 @@
 ## Hi there, my name is Danny! 👋
 
-## I am a Software Engineer with a passion for frontend/web development technologies. Experienced with React, Redux, Javascript and frontend architecture design efforts.
+I am a Software Engineer with a passion for frontend/web development technologies. Experienced with React, Redux, Javascript and frontend architecture design efforts.
 
 <!--
 **DNNYVST/DNNYVST** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
