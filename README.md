@@ -1,4 +1,4 @@
-## Hi there 👋, my name is Danny! 
+## Hi there, my name is Danny! 👋
 
 ## I am a Software Engineer with a passion for frontend/web development technologies. Experienced with React, Redux, Javascript and frontend architecture design efforts.
 
